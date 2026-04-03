@@ -7,7 +7,7 @@ I'm a Statistics and Data Science student at UC Santa Barbara graduating this sp
 - Data analysis and education policy research in UCSB's PEACE Lab using Python and R
 
 ## Currently looking for 
-Data engineer, data analyst, or research roles where I can apply rigorous analysis real-world, socially impactful problems; particularly in public-interest domains like AI safety, fairness, and bias mitigation. 
+Data engineer, data analyst, or research roles where I can apply rigorous analysis to real-world, socially impactful problems; particularly in public-interest domains like AI safety, fairness, and bias mitigation. 
 
 ## Connect with me
 - LinkedIn: [www.linkedin.com/in/chloe-hu-968268305]

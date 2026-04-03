@@ -6,6 +6,7 @@ I'm a Statistics and Data Science student at UC Santa Barbara graduating this sp
 - Comparative NLP evaluation project using LDA, Word2Vec + K-Means, and BERTopic on Southern California high school interview data
 - Data analysis and education policy research in UCSB's PEACE Lab using Python and R
 
+
 ## Currently looking for 
 Data engineer, data analyst, or research roles where I can apply rigorous analysis to real-world, socially impactful problems; particularly in public-interest domains like AI safety, fairness, and bias mitigation. 
 

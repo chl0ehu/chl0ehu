@@ -3,12 +3,13 @@
 I'm a Statistics and Data Science student at UC Santa Barbara graduating this spring 2026. I'm interested in NLP, statistical modeling, and AI safety and bias.  
 
 ## What I'm working on
-- Comparative NLP evaluation project using LDA, Word2Vec + K-Means, and BERTopic on Southern California high school interview data
+- Using comparative NLP methods (LDA, Word2Vec + K-Means, and BERTopic) to detect and evaluate bias in model-generated representations of high school student interview data. 
 - Data analysis and education policy research in UCSB's PEACE Lab using Python and R
+- Building skills in data engineering and big data analytics to support scalable, real-world data workflows
 
 
 ## Currently looking for 
-Data engineer, data analyst, or research roles where I can apply rigorous analysis to real-world, socially impactful problems; particularly in public-interest domains like AI safety, fairness, and bias mitigation. 
+Data analyst or research roles where I can apply rigorous analysis to real-world, socially impactful problems; particularly in public-interest domains like AI safety, fairness, and bias mitigation. 
 
 ## Connect with me
 - LinkedIn: [www.linkedin.com/in/chloe-hu-968268305]
